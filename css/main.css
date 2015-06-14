@@ -1,6 +1,6 @@
 body {
-	font-family: 'Open Sans', sans-serif;
-	color: #6A6A6A;
+	font-family: "Open Sans", sans-serif;
+	color: #6a6a6a;
 	font-weight: 300;
 }
 
@@ -32,7 +32,7 @@ p {
 hr {
 	border: 0;
 	height: 3px;
-	background-color: #6A6A6A;
+	background-color: #6a6a6a;
 	margin-bottom: 30px;
 }
 
@@ -49,25 +49,16 @@ hr {
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
 .works-image {
 	margin-top: 10px;
 }
 
-a:link {
-    color: #6A6A6A;
-}
-
-a:visited {
-    color: #6A6A6A;
-}
-
-a:hover {
-    color: #6A6A6A;
-}
-
+a:link,
+a:visited,
+a:hover,
 a:active {
-    color: #6A6A6A;
+    color: #6a6a6a;
 }
