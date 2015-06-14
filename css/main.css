@@ -36,6 +36,10 @@ hr {
 	margin-bottom: 30px;
 }
 
+.feature-image {
+	width: 100%;
+}
+
 .container {
 	max-width: 960px;
 }
